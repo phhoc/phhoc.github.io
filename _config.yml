@@ -48,7 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I'm a PhD student at the Institute for International Economic Studies (IIES) at the Stockholm University.
+  I'm a PhD student at the Institute for International Economic Studies (IIES) at the Stockholm University and on the job market 2023-2024.
   
   My research interests lie within maroeconomics and in particular consumption basket heterogeneity, nonhomothetic preferences and entrepreneurship.
   
@@ -63,8 +63,13 @@ content:
         description: >
           #### The Decline in Hours Worked Among Entrepreneurs
           
-          (work in progress)
-        
+          _(Job Market Paper)_
+          
+          
+          <span style="font-size:10pt">
+          I document that average weekly hours worked of entrepreneurs in the US decreased by around five hours between 1989--2022. At the same time, the hours of workers only decreased by around one hour. Compositional changes account for one fifth of the decline and the trend is robust along several dimensions including gender, age, occupation, industry, number of children and status of incorporation. I show that this is not unique to the US and a similar trend can be observed in Germany as well. I use an occupational choice model disciplined by data on hours, income and the aggregate share of entrepreneurs to explore possible sources. The model suggests a key role for a drop in the curvature of the entrepreneurial profit function possibly coming from a change in the competitive environment.
+          </span>
+          
       - layout: top
         #title: A Nonhomothethic Price Index and Cost-of-Living Inequality
         description: | # this will include new lines to allow paragraphs
@@ -75,9 +80,21 @@ content:
           [<mark>Online Appendix (PDF)</mark>](https://www.markuspettersson.net/research/a-nonhomothetic-price-index-and-inflation-heterogeneity/hpw_priceindex_supplement.pdf){:target="_blank"}
           
           <span style="font-size:10pt">
-          We derive a price index based on nonhomothetic preferences and use it to document cost-of-living inequality in the United States. Our framework generalizes all known superlative price indices and admits heterogeneous indices across the distribution of household consumption expenditures which aggregate consistently into welfare-relevant group indices. When necessities and luxuries are separable in the expenditure function, this generalization avoids the need to estimate a complete demand system. Using CEX-CPI data for the period 1995--2020, we find no differences in average inflation rates across the expenditure distribution, but 2.5 times higher inflation volatility for the bottom decile compared to the top decile, stemming from a larger exposure to food, gasoline, and utilities. These results contrast with the inequality found by the typical approach of constructing separate homothetic price indices for different consumer groups, and our analysis suggests that the difference follows from an income-effect bias in the homothetic group-specific indices
+          We derive a price index based on nonhomothetic preferences and use it to document cost-of-living inequality in the United States. Our framework generalizes all known superlative price indices and admits heterogeneous indices across the distribution of household consumption expenditures which aggregate consistently into welfare-relevant group indices. When necessities and luxuries are separable in the expenditure function, this generalization avoids the need to estimate a complete demand system. Using CEX-CPI data for the period 1995--2020, we find no differences in average inflation rates across the expenditure distribution, but 2.5 times higher inflation volatility for the bottom decile compared to the top decile, stemming from a larger exposure to food, gasoline, and utilities. These results contrast with the inequality found by the typical approach of constructing separate homothetic price indices for different consumer groups, and our analysis suggests that the difference follows from an income-effect bias in the homothetic group-specific indices.
           </span>
+
+      - layout: top
+        #title: A Distributional PCE Price Index From Aggregate Data
+        description: | # this will include new lines to allow paragraphs
+          #### A Distributional PCE Price Index From Aggregate Data
+        
+          _(joint with [Markus Pettersson](www.markuspettersson.net){:target="_blank"} and Christoffer J. Weissert)_
+          [<mark>Working Paper (PDF)</mark>](https://www.markuspettersson.net/research/a-distributional-pce-price-index-from-aggregate-data/hpw_nhpce.pdf){:target="_blank"}
           
+          <span style="font-size:10pt">
+          This paper proposes a method to measure individual and aggregate changes in the cost of living when consumer behavior is nonhomothetic and microdata on consumption expenditures are not available. Aggregate prices and expenditure shares together with a single cross-sectional distribution of expenditures are sufficient to create a distribution of nonhomothetic cost-ofliving indices with this approach. The cost-of-living indices derive from PIGL preferences, generalize the Törnqvist price index, and only contain two unknown parameters. Because PIGL preferences aggregate consistently, these parameters can be identified from aggregate data. Using US Personal Consumption Expenditure (PCE) data, the method is applied to obtain a nonhomothetic PCE price index covering 72 product groups. This index reveals a 0.5–1.2 percentage point gap in annual inflation rates between the poorest and richest ten percents throughout 2022, and a similar 0.2 percentage point gap on average since 1988, thus suggesting that poorer households are hit harder both in the ongoing inflation surge and in the long run.
+          </span>
+
       - layout: top
         #title: Welfare Implications of an Energy Price Shock
         description: | # this will include new lines to allow paragraphs
