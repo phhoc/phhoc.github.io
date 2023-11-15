@@ -63,11 +63,11 @@ content:
         description: >
           #### Declining Hours Worked Among Entrepreneurs
           
-          _(Job Market Paper)_
+          [<mark>Job Market Paper (PDF)</mark>](/files/JMP_Hochmuth.pdf){:target="_blank"}
           
           
           <span style="font-size:10pt">
-          I document a substantially stronger decline in working hours of entrepreneurs than for workers in the US. Weekly hours decreased by 3.8 hours more than for workers in the last 35 years. This number already adjusts for compositional changes and the decline is not driven by specific sub-groups of gender, age, education, number of children, occupation or industry. At the same time the share of entrepreneurs dropped and the hourly income of entrepreneurs relative to workers stayed unchanged. I use these observations to discipline a Roy model of occupational choice with an intensive margin of labor supply and an earnings function that is non-linear in hours. I estimate the model at two points in time and find that the curvature of the earnings function for entrepreneurs is key in explaining the drop in hours together with a drop in the share of entrepreneurs.
+          In this paper I show that, over the last 35 years, hours worked by entrepreneurs have fallen substantially: by five hours more than for workers. This decline accounts for the bulk of the fall in total hours worked and is present in all available sub-groups (gender, age, education, number of children, occupation or industry). It is robust to adjusting for compositional effects and occurred without noticeable changes in the relative hourly income of entrepreneurs. The decline originates from the top of the hours distribution: the share of entrepreneurs working many hours has dropped significantly. I interpret these facts using a Roy model of occupational choice, augmented with an intensive labor supply margin. The model allows the marginal return of working an additional hour to depend on the level of hours. I estimate the model at two points in time and find that a fall in the relative marginal return at higher hours worked is key for explaining the drop in hours and the drop in the share of entrepreneurs. I show that changes in the market structure of the goods or services that entrepreneurs sell can account for this.
           </span>
           
       - layout: top
