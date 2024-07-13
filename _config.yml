@@ -33,7 +33,7 @@ linkedin_username: philipp-hochmuth
 additional_links:
 - title: IIES
   icon: fas fa-school
-  url: https://iies.su.se
+  url: https://www.oenb.at
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -48,7 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I'm a PhD student at the Institute for International Economic Studies (IIES) at the Stockholm University and will take up a position in the Monetary Policy Section of the Oesterreichische Nationalbank (Austrian Central Bank) in July 2024.
+  I'm an Economist in the Monetary Policy Section of the Oesterreichische Nationalbank and recently obtained my PhD from the Institute for International Economic Studies (IIES) at the Stockholm University.
   
   My research interests lie within maroeconomics and in particular consumption basket heterogeneity, nonhomothetic preferences and entrepreneurship.
   
