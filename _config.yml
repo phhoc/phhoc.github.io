@@ -7,8 +7,8 @@ version: 2
 
 # Personal info
 name: Philipp Hochmuth
-title: PhD Student at the IIES
-email: philipp.hochmuth@iies.su.se
+title: Economist at the OeNB
+email: philipp.hochmuth@oenb.at
 website: phhoc.github.io
 
 # Dark Mode (true/false/never)
@@ -31,8 +31,8 @@ linkedin_username: philipp-hochmuth
 
 # Additional icon links
 additional_links:
-- title: IIES
-  icon: fas fa-school
+- title: OeNB
+  icon: fas fa-building
   url: https://www.oenb.at
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
