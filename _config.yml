@@ -96,10 +96,14 @@ content:
           </span>
 
       - layout: top
-        #title: Welfare Implications of an Energy Price Shock
+        #title: Distributional Consequences of Becoming Climate-Neutral
         description: | # this will include new lines to allow paragraphs
-          #### Welfare Implications of an Energy Price Shock
+          #### Distributional Consequences of Becoming Climate-Neutral
           _(joint with [Per Krusell](http://perseus.iies.su.se/~pkrus/){:target="_blank"} and [Kurt Mitman](https://app.scholarsite.io/kurt-mitman){:target="_blank"})_
+          
+          <span style="font-size:10pt">
+          This paper investigates the medium- and long-run welfare implications across the wealth and income distribution in a model economy that aims to become carbon neutral. The general equilibrium model features two agents with nonhomothetic preferences and energy is used in household consumption as well as a complementary input in production. Energy can be produced with a technology using fossil fuels or an emission-free technology. The introduction of a carbon tax achieves the necessary reduction in emissions and the economy transitions to a new carbon-neutral steady state. This experiment is comparable to the plan set out in the EU commission's Fit-for-55 package. The paper then analyzes the distributional consequences along the transition path and in the new steady state.
+          </span>
 
 # Footer
 footer_show_references: false
