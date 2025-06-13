@@ -63,7 +63,7 @@ content:
         description: >
           #### Declining Hours Worked Among Entrepreneurs
           
-          [<mark>Job Market Paper (PDF)</mark>](/files/JMP_Hochmuth.pdf){:target="_blank"}
+          [<mark>Working Paper (PDF)</mark>](/files/JMP_Hochmuth.pdf){:target="_blank"}
           
           
           <span style="font-size:10pt">
@@ -104,6 +104,16 @@ content:
           
           <span style="font-size:10pt">
           The EU has embarked on an ambitious path toward climate neutrality. How difficult will this transition be for the population as a whole and different subsets of consumers? This paper investigates this question using a dynamic general equilibrium model that captures a key feature of energy consumption: the relative energy content in one's consumption basket falls significantly as a function of one's relative income. Thus, poorer consumers are expected to be hit harder by the higher energy prices that we anticipate over the next few decades. In the model, energy---a complementary input to capital and labor---can be produced either using fossil fuel or a "green" technology. We represent the EU policy in terms of a tax on fossil fuel and show that the European Commission's Fit-for-55 package implies a 168% tax on the fossil-based technology. The output losses from this tax are substantial, and GDP is 9.3% lower in the new steady state. The burden falls primarily on the poor agent who is 50% more worse off than the rich agent. The output losses can be compensated for if the economy achieves a 1.49% annual increase in energy efficiency as outlined in the Fit-for-55 package.
+          </span>
+
+      - layout: top
+        #title: Getting Real About Wages: A Nonhomothetic Wage Deflator
+        description: | # this will include new lines to allow paragraphs
+          #### Getting Real About Wages: A Nonhomothetic Wage Deflator
+          _(joint with [Saman Darougheh](https://www.samandarougheh.com){:target="_blank"}, [Markus Pettersson](https://www.markuspettersson.net){:target="_blank"} and [Márcia Silva-Pereira](https://www.marciasilvapereira.com){:target="_blank"})_
+          
+          <span style="font-size:10pt">
+          Conventional real wages -- nominal wages divided by a consumption deflator -- are biased from a welfare perspective when households value leisure and exhibit nonhomothetic consumption behavior. We derive a true wage deflator, shown to be a multiplicative adjustment to the consumption deflator, that can be estimated nonparametrically using cross-sectional data. Applying our framework to US data from 1984 to 2019, we find that standard measures understate real wage growth by 8-36 percent and welfare growth by 5-17 percent across the income distribution. Our deflator does not alter the compression of the wage distribution during the recent high-inflation period, however.
           </span>
 
 # Footer
