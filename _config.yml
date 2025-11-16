@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Philipp Hochmuth
-title: Economist at the OeNB
+title: Economist at the OeNB*
 email: philipp.hochmuth@oenb.at
 website: phhoc.github.io
 
@@ -53,6 +53,8 @@ about_content: | # this will include new lines to allow paragraphs
   My research interests lie within maroeconomics and in particular consumption basket heterogeneity, nonhomothetic preferences and entrepreneurship.
   
   You can read more about me in my [<mark>CV (PDF)</mark>](/files/CV_Hochmuth.pdf){:target="_blank"}.
+  
+  _*Disclaimer: This is my personal website and the views expressed here do not necessarily reflect the views of the Oesterreichische Nationalbank or the Eurosystem._
   
 content:
   - title: Publications # Title for the section
